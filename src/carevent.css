@@ -1,0 +1,4139 @@
+
+
+Skip to content
+Using Gmail with screen readers
+Conversations
+0.08 GB of 15 GB used
+Terms · Privacy · Program Policies
+Last account activity: 1 hour ago
+Details
+/* Desktop */
+
+position: relative;
+width: 1440px;
+height: 6390px;
+
+background: #FFFFFF;
+
+
+/* footer */
+
+position: absolute;
+width: 1440px;
+height: 450px;
+left: 0px;
+top: 5940px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1440px;
+height: 450px;
+left: 0px;
+bottom: 0px;
+
+/* Super Light Grey */
+background: #ECEEF4;
+
+
+/* Logo */
+
+position: absolute;
+width: 135px;
+height: 37px;
+left: 140px;
+bottom: 359px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* Rides for the daily achievers */
+
+position: absolute;
+width: 148px;
+height: 44px;
+left: 141px;
+bottom: 295px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* © Copyright Team Inc. */
+
+position: absolute;
+width: 167px;
+height: 19px;
+left: 141px;
+bottom: 30px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-size: 13px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.4;
+
+
+/* Group 7 */
+
+position: absolute;
+width: 168px;
+height: 150px;
+left: 836px;
+top: 6000px;
+
+
+
+/* info@teamapp.com */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 836px;
+bottom: 328px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height */
+text-decoration-line: underline;
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* (302) 555-0107 */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 836px;
+bottom: 295px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* 2972 Westheimer Rd. Santa Ana, Illinois 85486 */
+
+position: absolute;
+width: 168px;
+height: 45px;
+left: 836px;
+bottom: 240px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 22px;
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Contact Us */
+
+position: absolute;
+width: 168px;
+height: 19px;
+left: 836px;
+bottom: 371px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-size: 18px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Subscribe to our newsletter */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 1034px;
+bottom: 328px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Group 7.1 */
+
+position: absolute;
+width: 168px;
+height: 161px;
+left: 438px;
+top: 6000px;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 438px;
+bottom: 328px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Careers */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 438px;
+bottom: 295px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Support */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 438px;
+bottom: 262px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Terms and Conditions */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 438px;
+bottom: 229px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Company */
+
+position: absolute;
+width: 168px;
+height: 19px;
+left: 438px;
+bottom: 371px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-size: 18px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 7.2 */
+
+position: absolute;
+width: 168px;
+height: 161px;
+left: 637px;
+top: 6000px;
+
+
+
+/* Vehicle Tracker */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 637px;
+bottom: 328px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* iOS & Android Apps */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 637px;
+bottom: 295px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Business Trips */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 637px;
+bottom: 262px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Locations */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 637px;
+bottom: 229px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Features */
+
+position: absolute;
+width: 168px;
+height: 19px;
+left: 637px;
+bottom: 371px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-size: 18px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Input/Normal */
+
+position: absolute;
+width: 320px;
+height: 56px;
+left: 1034px;
+top: 6082px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Light Grey */
+border: 2px solid #BBC8D4;
+border-radius: 4px;
+
+
+/* Email */
+
+position: absolute;
+width: 42px;
+height: 29px;
+left: 16px;
+top: calc(50% - 29px/2 + 0.5px);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Light Grey */
+color: #BBC8D4;
+
+
+
+/* Get deals and discounts */
+
+position: absolute;
+width: 182px;
+height: 19px;
+left: 1034px;
+bottom: 371px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* CTA Section */
+
+position: absolute;
+width: 1320px;
+height: 512px;
+left: 60px;
+top: 5328px;
+
+
+
+/* CTA BG */
+
+position: absolute;
+width: 1320px;
+height: 512px;
+left: 60px;
+top: 5328px;
+
+/* Royal Blue */
+background: #1F4590;
+border-radius: 10px;
+
+
+/* CTA Heading */
+
+position: absolute;
+width: 1096px;
+height: 329px;
+left: 172px;
+top: 5385px;
+
+
+
+/* Search Box */
+
+position: absolute;
+width: 1096px;
+height: 130px;
+left: 172px;
+top: 5584px;
+
+
+
+/* Search BG */
+
+position: absolute;
+width: 1096px;
+height: 130px;
+left: 172px;
+top: 5584px;
+
+background: #FFFFFF;
+box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.08);
+border-radius: 100px;
+
+
+/* Search Items Container */
+
+position: absolute;
+width: 937.07px;
+height: 83px;
+left: 267px;
+top: 5608px;
+
+
+
+/* 3rd Box */
+
+position: absolute;
+width: 178.52px;
+height: 83px;
+left: 724.15px;
+top: 5608px;
+
+
+
+/* return date */
+
+position: absolute;
+width: 130px;
+height: 20px;
+left: 724.15px;
+top: 5608px;
+
+/* Heading 4 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Dropdown */
+
+position: absolute;
+width: 178.52px;
+height: 56px;
+left: 724.15px;
+top: 5635px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Light Grey */
+border: 2px solid #BBC8D4;
+border-radius: 4px;
+
+
+/* Select option */
+
+position: absolute;
+width: 91px;
+height: 29px;
+left: 16px;
+top: calc(50% - 29px/2 + 0.5px);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Light Grey */
+color: #BBC8D4;
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 15.52px;
+top: calc(50% - 24px/2 + 1px);
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+left: 26.72%;
+right: 26.72%;
+top: 36.28%;
+bottom: 36.28%;
+
+/* Light Grey */
+background: #BBC8D4;
+
+
+/* 2nd Box */
+
+position: absolute;
+width: 178.52px;
+height: 83px;
+left: 495.82px;
+top: 5608px;
+
+
+
+/* Pick up date */
+
+position: absolute;
+width: 130px;
+height: 20px;
+left: 495.82px;
+top: 5608px;
+
+/* Heading 4 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Dropdown */
+
+position: absolute;
+width: 178.52px;
+height: 56px;
+left: 495.82px;
+top: 5635px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Light Grey */
+border: 2px solid #BBC8D4;
+border-radius: 4px;
+
+
+/* Select option */
+
+position: absolute;
+width: 91px;
+height: 29px;
+left: 16px;
+top: calc(50% - 29px/2 + 0.5px);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Light Grey */
+color: #BBC8D4;
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 15.52px;
+top: calc(50% - 24px/2 + 1px);
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+left: 26.72%;
+right: 26.72%;
+top: 36.28%;
+bottom: 36.28%;
+
+/* Light Grey */
+background: #BBC8D4;
+
+
+/* 1st box */
+
+position: absolute;
+width: 179px;
+height: 83px;
+left: 267px;
+top: 5608px;
+
+
+
+/* Pick up location */
+
+position: absolute;
+width: 176px;
+height: 20px;
+left: 267px;
+top: 5608px;
+
+/* Heading 4 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Dropdown */
+
+position: absolute;
+width: 178.52px;
+height: 56px;
+left: 267.48px;
+top: 5635px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Light Grey */
+border: 2px solid #BBC8D4;
+border-radius: 4px;
+
+
+/* Select option */
+
+position: absolute;
+width: 115px;
+height: 29px;
+left: 16px;
+top: calc(50% - 29px/2 + 0.5px);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Light Grey */
+color: #BBC8D4;
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 15.52px;
+top: calc(50% - 24px/2 + 1px);
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+left: 26.72%;
+right: 26.72%;
+top: 36.28%;
+bottom: 36.28%;
+
+/* Light Grey */
+background: #BBC8D4;
+
+
+/* Primary Button/Blue */
+
+position: absolute;
+width: 137px;
+height: 56px;
+left: 1067.07px;
+top: 5622px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Royal Blue */
+background: #1F4590;
+border-radius: 4px;
+
+
+/* Primary Button */
+
+position: absolute;
+width: 118px;
+height: 24px;
+left: calc(50% - 118px/2 - 0.5px);
+top: calc(50% - 24px/2);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Find Your Next Long Drive Now! */
+
+position: absolute;
+width: 987px;
+height: 140px;
+left: 224px;
+top: 5385px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 70px;
+/* or 109% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Blog Section */
+
+position: absolute;
+width: 1320px;
+height: 1024px;
+left: 60px;
+top: 4204px;
+
+
+
+/* Testimonial BG */
+
+position: absolute;
+width: 1320px;
+height: 1024px;
+left: 60px;
+top: 4204px;
+
+background: #FAFAFA;
+
+
+/* Blog Cards */
+
+position: absolute;
+width: 1320px;
+height: 554px;
+left: 60px;
+top: 4488px;
+
+
+
+/* Blog Card */
+
+position: absolute;
+width: 423px;
+height: 554px;
+left: 60px;
+top: 4488px;
+
+
+
+/* Blog BG */
+
+position: absolute;
+width: 423px;
+height: 554px;
+left: 60px;
+top: 4488px;
+
+background: #FFFFFF;
+
+
+/* Blog Image */
+
+position: absolute;
+width: 423px;
+height: 225px;
+left: 60px;
+top: 4488px;
+
+background: url();
+box-shadow: 0px 5px 25px -3px rgba(0, 0, 0, 0.2);
+border-radius: 10px;
+
+
+/* Start a blog to reach your creative peak */
+
+position: absolute;
+width: 357px;
+height: 72px;
+left: 60px;
+top: 4765px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+/* or 112% */
+
+color: #000000;
+
+
+
+/* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. */
+
+position: absolute;
+width: 344px;
+height: 87px;
+left: 60px;
+top: 4852px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 163.15%;
+/* or 29px */
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* icon/navigation/arrow_forward_24px */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 168px;
+top: 4979px;
+
+
+
+/* icon/navigation/arrow_forward_24px */
+
+position: absolute;
+left: 17.54%;
+right: 17.54%;
+top: 18.37%;
+bottom: 18.36%;
+
+/* Grey */
+background: #6D7D8B;
+
+
+/* Find Out More */
+
+position: absolute;
+width: 108px;
+height: 28px;
+left: 60px;
+top: 4977px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Tag */
+
+position: absolute;
+width: 88px;
+height: 31px;
+left: 60px;
+top: 4726px;
+
+
+
+/* Tag BG */
+
+position: absolute;
+width: 88px;
+height: 31px;
+left: 60px;
+top: 4726px;
+
+/* Royal Blue */
+background: #1F4590;
+border-radius: 100px;
+
+
+/* Tags */
+
+position: absolute;
+width: 37px;
+height: 24px;
+left: 85px;
+top: 4730px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150.6%;
+/* identical to box height, or 24px */
+
+color: #FFFFFF;
+
+
+
+/* Blog Card */
+
+position: absolute;
+width: 423px;
+height: 554px;
+left: 508px;
+top: 4488px;
+
+
+
+/* Blog BG */
+
+position: absolute;
+width: 423px;
+height: 554px;
+left: 508px;
+top: 4488px;
+
+background: #FFFFFF;
+
+
+/* Blog Image */
+
+position: absolute;
+width: 423px;
+height: 225px;
+left: 508px;
+top: 4488px;
+
+background: url();
+box-shadow: 0px 5px 25px -3px rgba(0, 0, 0, 0.2);
+border-radius: 10px;
+
+
+/* Starting your traveling blog with Vasco */
+
+position: absolute;
+width: 357px;
+height: 72px;
+left: 508px;
+top: 4765px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+/* or 112% */
+
+color: #000000;
+
+
+
+/* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. */
+
+position: absolute;
+width: 344px;
+height: 87px;
+left: 508px;
+top: 4852px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 163.15%;
+/* or 29px */
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* icon/navigation/arrow_forward_24px */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 616px;
+top: 4979px;
+
+
+
+/* icon/navigation/arrow_forward_24px */
+
+position: absolute;
+left: 17.54%;
+right: 17.54%;
+top: 18.37%;
+bottom: 18.36%;
+
+/* Grey */
+background: #6D7D8B;
+
+
+/* Find Out More */
+
+position: absolute;
+width: 108px;
+height: 28px;
+left: 508px;
+top: 4977px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Tag */
+
+position: absolute;
+width: 88px;
+height: 31px;
+left: 508px;
+top: 4726px;
+
+
+
+/* Tag BG */
+
+position: absolute;
+width: 88px;
+height: 31px;
+left: 508px;
+top: 4726px;
+
+/* Royal Blue */
+background: #1F4590;
+border-radius: 100px;
+
+
+/* Tags */
+
+position: absolute;
+width: 37px;
+height: 24px;
+left: 533px;
+top: 4730px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150.6%;
+/* identical to box height, or 24px */
+
+color: #FFFFFF;
+
+
+
+/* Blog Card */
+
+position: absolute;
+width: 423px;
+height: 554px;
+left: 957px;
+top: 4488px;
+
+
+
+/* Blog BG */
+
+position: absolute;
+width: 423px;
+height: 554px;
+left: 957px;
+top: 4488px;
+
+background: #FFFFFF;
+
+
+/* Blog Image */
+
+position: absolute;
+width: 423px;
+height: 225px;
+left: 957px;
+top: 4488px;
+
+background: url();
+box-shadow: 0px 5px 25px -3px rgba(0, 0, 0, 0.2);
+border-radius: 10px;
+
+
+/* Caring is the new marketing */
+
+position: absolute;
+width: 357px;
+height: 72px;
+left: 957px;
+top: 4765px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+/* or 112% */
+
+color: #000000;
+
+
+
+/* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. */
+
+position: absolute;
+width: 344px;
+height: 87px;
+left: 957px;
+top: 4852px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 163.15%;
+/* or 29px */
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* icon/navigation/arrow_forward_24px */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1065px;
+top: 4979px;
+
+
+
+/* icon/navigation/arrow_forward_24px */
+
+position: absolute;
+left: 17.54%;
+right: 17.54%;
+top: 18.37%;
+bottom: 18.36%;
+
+/* Grey */
+background: #6D7D8B;
+
+
+/* Find Out More */
+
+position: absolute;
+width: 108px;
+height: 28px;
+left: 957px;
+top: 4977px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Tag */
+
+position: absolute;
+width: 88px;
+height: 31px;
+left: 957px;
+top: 4726px;
+
+
+
+/* Tag BG */
+
+position: absolute;
+width: 88px;
+height: 31px;
+left: 957px;
+top: 4726px;
+
+/* Royal Blue */
+background: #1F4590;
+border-radius: 100px;
+
+
+/* Tags */
+
+position: absolute;
+width: 37px;
+height: 24px;
+left: 982px;
+top: 4730px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150.6%;
+/* identical to box height, or 24px */
+
+color: #FFFFFF;
+
+
+
+/* Blog Heading */
+
+position: absolute;
+width: 530px;
+height: 70px;
+left: 452px;
+top: 4318px;
+
+
+
+/* Read Our Stories */
+
+position: absolute;
+width: 530px;
+height: 70px;
+left: 452px;
+top: 4318px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 70px;
+/* identical to box height, or 109% */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Testimonial Section */
+
+position: absolute;
+width: 1321px;
+height: 1024px;
+left: 60px;
+top: 3092px;
+
+
+
+/* Testimonial BG */
+
+position: absolute;
+width: 1320px;
+height: 1024px;
+left: 60px;
+top: 3092px;
+
+background: #FAFAFA;
+
+
+/* Testimonial Body */
+
+position: absolute;
+width: 1321px;
+height: 925px;
+left: 60px;
+top: 3141px;
+
+
+
+/* Testimonial Inner Body */
+
+position: absolute;
+width: 1321px;
+height: 682px;
+left: 60px;
+top: 3384px;
+
+
+
+/* Testimonial Image */
+
+position: absolute;
+width: 647px;
+height: 682px;
+left: 60px;
+top: 3384px;
+
+background: url();
+border-radius: 4px;
+
+
+/* Testimonial Content */
+
+position: absolute;
+width: 647px;
+height: 682px;
+left: 734px;
+top: 3384px;
+
+
+
+/* T Content BG */
+
+position: absolute;
+width: 647px;
+height: 682px;
+left: 734px;
+top: 3384px;
+
+/* Royal Blue */
+background: #1F4590;
+border-radius: 4px;
+
+
+/* Anna De’Suza, CEO at SpaceX */
+
+position: absolute;
+width: 174px;
+height: 70px;
+left: 838px;
+top: 3908px;
+
+font-family: 'Mulish';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+/* or 146% */
+
+color: #FFFFFF;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 264px;
+height: 0px;
+left: 838px;
+top: 3905px;
+
+border: 1px solid #FFFFFF;
+
+
+/* “Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.“ */
+
+position: absolute;
+width: 455px;
+height: 360px;
+left: 838px;
+top: 3500px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+
+color: #FFFFFF;
+
+
+
+/* Testimonial Heading */
+
+position: absolute;
+width: 946px;
+height: 143px;
+left: 244px;
+top: 3141px;
+
+
+
+/* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. */
+
+position: absolute;
+width: 576px;
+height: 58px;
+left: 429px;
+top: 3226px;
+
+/* Paragraph */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* What do people say about us? */
+
+position: absolute;
+width: 946px;
+height: 70px;
+left: 244px;
+top: 3141px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 70px;
+/* identical to box height, or 109% */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Features Section */
+
+position: absolute;
+width: 1321px;
+height: 1024px;
+left: 60px;
+top: 1956px;
+
+
+
+/* Feature BG */
+
+position: absolute;
+width: 1320px;
+height: 1024px;
+left: 60px;
+top: 1956px;
+
+background: #FFFFFF;
+
+
+/* Feature Cards */
+
+position: absolute;
+width: 1321px;
+height: 545px;
+left: 60px;
+top: 2313px;
+
+
+
+/* Feature Card */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 958px;
+top: 2313px;
+
+
+
+/* Card BG */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 958px;
+top: 2313px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+
+
+/* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. */
+
+position: absolute;
+width: 355px;
+height: 87px;
+left: 993px;
+top: 2625px;
+
+/* Paragraph */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 24/7 Tracking */
+
+position: absolute;
+width: 201px;
+height: 40px;
+left: 1070px;
+top: 2570px;
+
+/* Heading 2 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+
+color: #000000;
+
+
+
+/* Pin */
+
+position: absolute;
+left: 77.36%;
+right: 14.81%;
+top: 37.04%;
+bottom: 60.75%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 80.54%;
+right: 17.99%;
+top: 37.7%;
+bottom: 61.96%;
+
+/* Royal Blue */
+background: #1F4590;
+
+
+/* Vector */
+
+position: absolute;
+left: 77.36%;
+right: 14.81%;
+top: 37.04%;
+bottom: 60.75%;
+
+/* Royal Blue */
+background: #1F4590;
+
+
+/* Feature Card */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 509px;
+top: 2313px;
+
+
+
+/* Card BG */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 509px;
+top: 2313px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+
+
+/* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. */
+
+position: absolute;
+width: 355px;
+height: 87px;
+left: 544px;
+top: 2625px;
+
+/* Paragraph */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Secure Payments */
+
+position: absolute;
+width: 257px;
+height: 40px;
+left: 593px;
+top: 2570px;
+
+/* Heading 2 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+
+color: #000000;
+
+
+
+/* Shield */
+
+position: absolute;
+left: 45.76%;
+right: 45.62%;
+top: 36.78%;
+bottom: 60.92%;
+
+/* Royal Blue */
+background: #1F4590;
+
+
+/* Feature Card */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 60px;
+top: 2313px;
+
+
+
+/* Card BG */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 60px;
+top: 2313px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+
+
+/* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. */
+
+position: absolute;
+width: 355px;
+height: 87px;
+left: 95px;
+top: 2625px;
+
+/* Paragraph */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Easy Booking */
+
+position: absolute;
+width: 200px;
+height: 40px;
+left: 172px;
+top: 2570px;
+
+/* Heading 2 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+
+color: #000000;
+
+
+
+/* Bookmark */
+
+position: absolute;
+left: 15.14%;
+right: 77.33%;
+top: 36.81%;
+bottom: 60.93%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.14%;
+right: 77.33%;
+top: 36.81%;
+bottom: 60.93%;
+
+/* Royal Blue */
+background: #1F4590;
+
+
+/* Feature Content */
+
+position: absolute;
+width: 689px;
+height: 143px;
+left: 373px;
+top: 2070px;
+
+
+
+/* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. */
+
+position: absolute;
+width: 576px;
+height: 58px;
+left: 429px;
+top: 2155px;
+
+/* Paragraph */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* Why We Are Different */
+
+position: absolute;
+width: 689px;
+height: 70px;
+left: 373px;
+top: 2070px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 70px;
+/* identical to box height, or 109% */
+
+color: #000000;
+
+
+
+/* Car Section */
+
+position: absolute;
+width: 1314px;
+height: 715px;
+left: 60px;
+top: 1141px;
+
+
+
+/* Car Cards */
+
+position: absolute;
+width: 1314px;
+height: 545px;
+left: 60px;
+top: 1311px;
+
+
+
+/* Car Card */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 60px;
+top: 1311px;
+
+
+
+/* Card BG */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 60px;
+top: 1311px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+
+
+/* Primary Button/Red */
+
+position: absolute;
+width: 165px;
+height: 56px;
+left: 103px;
+top: 1756px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Royal Blue */
+background: #1F4590;
+border-radius: 4px;
+
+
+/* Primary Button */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 0.5px);
+top: calc(50% - 24px/2);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Feature */
+
+position: absolute;
+width: 242px;
+height: 30px;
+left: 99px;
+top: 1687px;
+
+
+
+/* Sunroof Available */
+
+position: absolute;
+width: 197px;
+height: 30px;
+left: 144px;
+top: 1687px;
+
+/* Heading 3 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 99px;
+top: 1687px;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Green */
+background: #00C04D;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 22.53%;
+right: 22.57%;
+top: 29.16%;
+bottom: 30.91%;
+
+background: #DADADA;
+
+
+/* Feature */
+
+position: absolute;
+width: 318px;
+height: 30px;
+left: 99px;
+top: 1637px;
+
+
+
+/* Bluetooth Sound System */
+
+position: absolute;
+width: 273px;
+height: 30px;
+left: 144px;
+top: 1637px;
+
+/* Heading 3 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 99px;
+top: 1637px;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Green */
+background: #00C04D;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 22.53%;
+right: 22.57%;
+top: 29.16%;
+bottom: 30.91%;
+
+background: #DADADA;
+
+
+/* Feature */
+
+position: absolute;
+width: 217px;
+height: 30px;
+left: 99px;
+top: 1587px;
+
+
+
+/* Air Conditioned */
+
+position: absolute;
+width: 172px;
+height: 30px;
+left: 144px;
+top: 1587px;
+
+/* Heading 3 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 99px;
+top: 1587px;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Green */
+background: #00C04D;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 22.53%;
+right: 22.57%;
+top: 29.16%;
+bottom: 30.91%;
+
+background: #DADADA;
+
+
+/* Toyota Corolla T-20 */
+
+position: absolute;
+width: 344px;
+height: 45px;
+left: 99px;
+top: 1522px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 45px;
+
+color: #000000;
+
+
+
+/* Car Image */
+
+position: absolute;
+width: 311px;
+height: 154px;
+left: 116px;
+top: 1348px;
+
+background: url(Asset 3@2x);
+
+
+/* Car Card */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 509px;
+top: 1311px;
+
+
+
+/* Card BG */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 509px;
+top: 1311px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+
+
+/* Primary Button/Red */
+
+position: absolute;
+width: 165px;
+height: 56px;
+left: 552px;
+top: 1756px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Royal Blue */
+background: #1F4590;
+border-radius: 4px;
+
+
+/* Primary Button */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 0.5px);
+top: calc(50% - 24px/2);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Feature */
+
+position: absolute;
+width: 242px;
+height: 30px;
+left: 548px;
+top: 1687px;
+
+
+
+/* Sunroof Available */
+
+position: absolute;
+width: 197px;
+height: 30px;
+left: 593px;
+top: 1687px;
+
+/* Heading 3 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 548px;
+top: 1687px;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Green */
+background: #00C04D;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 22.53%;
+right: 22.57%;
+top: 29.16%;
+bottom: 30.91%;
+
+background: #DADADA;
+
+
+/* Feature */
+
+position: absolute;
+width: 318px;
+height: 30px;
+left: 548px;
+top: 1637px;
+
+
+
+/* Bluetooth Sound System */
+
+position: absolute;
+width: 273px;
+height: 30px;
+left: 593px;
+top: 1637px;
+
+/* Heading 3 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 548px;
+top: 1637px;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Green */
+background: #00C04D;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 22.53%;
+right: 22.57%;
+top: 29.16%;
+bottom: 30.91%;
+
+background: #DADADA;
+
+
+/* Feature */
+
+position: absolute;
+width: 217px;
+height: 30px;
+left: 548px;
+top: 1587px;
+
+
+
+/* Air Conditioned */
+
+position: absolute;
+width: 172px;
+height: 30px;
+left: 593px;
+top: 1587px;
+
+/* Heading 3 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 548px;
+top: 1587px;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Green */
+background: #00C04D;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 22.53%;
+right: 22.57%;
+top: 29.16%;
+bottom: 30.91%;
+
+background: #DADADA;
+
+
+/* Toyota Corolla T-20 */
+
+position: absolute;
+width: 344px;
+height: 45px;
+left: 548px;
+top: 1522px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 45px;
+
+color: #000000;
+
+
+
+/* Car Image */
+
+position: absolute;
+width: 311px;
+height: 154px;
+left: 565px;
+top: 1348px;
+
+background: url(Asset 4@2x);
+
+
+/* Car Card */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 951px;
+top: 1311px;
+
+
+
+/* Card BG */
+
+position: absolute;
+width: 423px;
+height: 545px;
+left: 951px;
+top: 1311px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+
+
+/* Primary Button/Red */
+
+position: absolute;
+width: 165px;
+height: 56px;
+left: 994px;
+top: 1756px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Royal Blue */
+background: #1F4590;
+border-radius: 4px;
+
+
+/* Primary Button */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 0.5px);
+top: calc(50% - 24px/2);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Feature */
+
+position: absolute;
+width: 242px;
+height: 30px;
+left: 990px;
+top: 1687px;
+
+
+
+/* Sunroof Available */
+
+position: absolute;
+width: 197px;
+height: 30px;
+left: 1035px;
+top: 1687px;
+
+/* Heading 3 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 990px;
+top: 1687px;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Green */
+background: #00C04D;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 22.53%;
+right: 22.57%;
+top: 29.16%;
+bottom: 30.91%;
+
+background: #DADADA;
+
+
+/* Feature */
+
+position: absolute;
+width: 318px;
+height: 30px;
+left: 990px;
+top: 1637px;
+
+
+
+/* Bluetooth Sound System */
+
+position: absolute;
+width: 273px;
+height: 30px;
+left: 1035px;
+top: 1637px;
+
+/* Heading 3 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 990px;
+top: 1637px;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Green */
+background: #00C04D;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 22.53%;
+right: 22.57%;
+top: 29.16%;
+bottom: 30.91%;
+
+background: #DADADA;
+
+
+/* Feature */
+
+position: absolute;
+width: 217px;
+height: 30px;
+left: 990px;
+top: 1587px;
+
+
+
+/* Air Conditioned */
+
+position: absolute;
+width: 172px;
+height: 30px;
+left: 1035px;
+top: 1587px;
+
+/* Heading 3 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 990px;
+top: 1587px;
+
+
+
+/* icon/action/check_circle_24px */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Green */
+background: #00C04D;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 22.53%;
+right: 22.57%;
+top: 29.16%;
+bottom: 30.91%;
+
+background: #DADADA;
+
+
+/* Toyota Corolla T-20 */
+
+position: absolute;
+width: 344px;
+height: 45px;
+left: 990px;
+top: 1522px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 45px;
+
+color: #000000;
+
+
+
+/* Car Image */
+
+position: absolute;
+width: 311px;
+height: 154px;
+left: 1007px;
+top: 1348px;
+
+background: url(Asset 5@2x);
+
+
+/* Our Featured Cars */
+
+position: absolute;
+width: 571px;
+height: 70px;
+left: 434px;
+top: 1141px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 70px;
+/* identical to box height, or 109% */
+
+color: #000000;
+
+
+
+/* Trusted By Section */
+
+position: absolute;
+width: 1295.56px;
+height: 61px;
+left: 72px;
+top: 980px;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 207.34px;
+height: 40.89px;
+left: 72px;
+top: 991px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.12%;
+right: 92.17%;
+top: 15.76%;
+bottom: 83.85%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.1%;
+right: 92.28%;
+top: 15.53%;
+bottom: 83.88%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 5%;
+right: 93.3%;
+top: 15.51%;
+bottom: 84.11%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.95%;
+right: 90.73%;
+top: 15.63%;
+bottom: 84.02%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.45%;
+right: 89.44%;
+top: 15.73%;
+bottom: 84.02%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.69%;
+right: 88.18%;
+top: 15.73%;
+bottom: 83.92%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 12%;
+right: 86.89%;
+top: 15.73%;
+bottom: 84.02%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.26%;
+right: 86.36%;
+top: 15.63%;
+bottom: 84.02%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.84%;
+right: 85.03%;
+top: 15.73%;
+bottom: 83.93%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.05%;
+right: 84.06%;
+top: 15.73%;
+bottom: 84.02%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.08%;
+right: 82.91%;
+top: 15.74%;
+bottom: 84.02%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.32%;
+right: 81.1%;
+top: 15.73%;
+bottom: 84.02%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.93%;
+right: 80.6%;
+top: 15.63%;
+bottom: 84.26%;
+
+background: #394149;
+
+
+/* 2 */
+
+position: absolute;
+width: 182px;
+height: 41.53px;
+left: 349px;
+top: 990px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 27.9%;
+right: 63.13%;
+top: 15.66%;
+bottom: 83.95%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.24%;
+right: 72.88%;
+top: 15.49%;
+bottom: 83.86%;
+
+background: #394149;
+
+
+/* 3 */
+
+position: absolute;
+width: 198.38px;
+height: 44.66px;
+left: 601px;
+top: 989px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 41.74%;
+right: 56.84%;
+top: 15.48%;
+bottom: 83.82%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.16%;
+right: 55.74%;
+top: 15.58%;
+bottom: 83.93%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.06%;
+right: 54.62%;
+top: 15.64%;
+bottom: 84.01%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.56%;
+right: 53.33%;
+top: 15.74%;
+bottom: 84.01%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.78%;
+right: 52.07%;
+top: 15.74%;
+bottom: 83.91%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.11%;
+right: 50.78%;
+top: 15.74%;
+bottom: 84.01%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.37%;
+right: 50.26%;
+top: 15.64%;
+bottom: 84.01%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.94%;
+right: 48.92%;
+top: 15.74%;
+bottom: 83.92%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.16%;
+right: 47.95%;
+top: 15.74%;
+bottom: 84.01%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.19%;
+right: 46.8%;
+top: 15.75%;
+bottom: 84.01%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.42%;
+right: 44.99%;
+top: 15.74%;
+bottom: 84.01%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.04%;
+right: 44.49%;
+top: 15.64%;
+bottom: 84.25%;
+
+background: #394149;
+
+
+/* 4 */
+
+position: absolute;
+width: 193.26px;
+height: 50.2px;
+left: 869px;
+top: 985px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 62.52%;
+right: 26.23%;
+top: 15.6%;
+bottom: 84.02%;
+
+background: #394149;
+
+
+/* Vector */
+
+position: absolute;
+left: 60.35%;
+right: 38.5%;
+top: 15.41%;
+bottom: 83.8%;
+
+background: #394149;
+
+
+/* 5 */
+
+position: absolute;
+width: 235.56px;
+height: 61px;
+left: 1132px;
+top: 980px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 15.16px;
+height: 24.65px;
+left: calc(50% - 15.16px/2 + 492.97px);
+top: calc(50% - 24.65px/2 - 2186.99px);
+
+background: #243A5A;
+
+
+/* Vector */
+
+position: absolute;
+width: 17.73px;
+height: 17.55px;
+left: calc(50% - 17.73px/2 + 509.95px);
+top: calc(50% - 17.55px/2 - 2183.05px);
+
+background: #243A5A;
+
+
+/* Vector */
+
+position: absolute;
+width: 18.17px;
+height: 25.71px;
+left: calc(50% - 18.17px/2 + 528.66px);
+top: calc(50% - 25.71px/2 - 2179.03px);
+
+background: #243A5A;
+
+
+/* Vector */
+
+position: absolute;
+width: 17.73px;
+height: 17.55px;
+left: calc(50% - 17.73px/2 + 548.11px);
+top: calc(50% - 17.55px/2 - 2183.05px);
+
+background: #243A5A;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.84px;
+height: 25.08px;
+left: calc(50% - 5.84px/2 + 561.39px);
+top: calc(50% - 25.08px/2 - 2187.21px);
+
+background: #243A5A;
+
+
+/* Vector */
+
+position: absolute;
+width: 18.41px;
+height: 25.18px;
+left: calc(50% - 18.41px/2 + 576.2px);
+top: calc(50% - 25.18px/2 - 2179.26px);
+
+background: #243A5A;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.86px;
+height: 17.62px;
+left: calc(50% - 13.86px/2 + 592.87px);
+top: calc(50% - 17.62px/2 - 2183.05px);
+
+background: #243A5A;
+
+
+/* Vector */
+
+position: absolute;
+width: 16.43px;
+height: 17.09px;
+left: calc(50% - 16.43px/2 + 609.75px);
+top: calc(50% - 17.09px/2 - 2182.78px);
+
+background: #243A5A;
+
+
+/* Vector */
+
+position: absolute;
+width: 26.62px;
+height: 17.22px;
+left: calc(50% - 26.62px/2 + 634.25px);
+top: calc(50% - 17.22px/2 - 2183.28px);
+
+background: #243A5A;
+
+
+/* Vector */
+
+position: absolute;
+width: 61.16px;
+height: 61px;
+left: calc(50% - 61.16px/2 + 442.58px);
+top: calc(50% - 61px/2 - 2184.5px);
+
+background: #243A5A;
+
+
+/* Vector */
+
+position: absolute;
+width: 15.04px;
+height: 7.62px;
+left: calc(50% - 15.04px/2 + 442.58px);
+top: calc(50% - 7.62px/2 - 2171.54px);
+
+background: #2DF8BB;
+
+
+/* Vector */
+
+position: absolute;
+width: 11.6px;
+height: 12.2px;
+left: calc(50% - 11.6px/2 + 456.66px);
+top: calc(50% - 12.2px/2 - 2189.07px);
+
+background: #2DF8BB;
+
+
+/* Vector */
+
+position: absolute;
+width: 11.6px;
+height: 12.2px;
+left: calc(50% - 11.6px/2 + 428.5px);
+top: calc(50% - 12.2px/2 - 2189.07px);
+
+background: #2DF8BB;
+
+
+/* Hero Section */
+
+position: absolute;
+width: 1320px;
+height: 832px;
+left: 60px;
+top: 128px;
+
+
+
+/* Hero BG Mask */
+
+position: absolute;
+width: 1320px;
+height: 677px;
+left: 60px;
+top: 128px;
+
+
+
+/* Image Container */
+
+position: absolute;
+width: 1320px;
+height: 677px;
+left: 60px;
+top: 128px;
+
+background: #000000;
+border-radius: 5px;
+
+
+/* Hero BG */
+
+position: absolute;
+width: 1627px;
+height: 677px;
+left: 60px;
+top: 128px;
+
+background: url();
+border-radius: 5px;
+
+
+/* Image Mask */
+
+position: absolute;
+width: 1320px;
+height: 677px;
+left: 60px;
+top: 128px;
+
+background: linear-gradient(106.34deg, rgba(0, 0, 0, 0.4) 31.76%, rgba(0, 0, 0, 0) 84.65%);
+border-radius: 5px;
+
+
+/* Renting cars have never been this easy */
+
+position: absolute;
+width: 631px;
+height: 140px;
+left: 172px;
+top: 282px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 70px;
+/* or 109% */
+
+color: #FFFFFF;
+
+
+
+/* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. */
+
+position: absolute;
+width: 423px;
+height: 87px;
+left: 172px;
+top: 437px;
+
+/* Paragraph */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+
+/* Search Box */
+
+position: absolute;
+width: 1096px;
+height: 140px;
+left: 166px;
+top: 820px;
+
+
+
+/* Search BG */
+
+position: absolute;
+width: 1096px;
+height: 140px;
+left: 166px;
+top: 820px;
+
+background: #FFFFFF;
+box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.08);
+border-radius: 100px;
+
+
+/* Search Items Container */
+
+position: absolute;
+width: 937.07px;
+height: 83px;
+left: 261px;
+top: 843px;
+
+
+
+/* 3rd Box */
+
+position: absolute;
+width: 178.52px;
+height: 83px;
+left: 718.15px;
+top: 843px;
+
+
+
+/* return date */
+
+position: absolute;
+width: 130px;
+height: 20px;
+left: 718.15px;
+top: 843px;
+
+/* Heading 4 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Dropdown */
+
+position: absolute;
+width: 178.52px;
+height: 56px;
+left: 718.15px;
+top: 870px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Light Grey */
+border: 2px solid #BBC8D4;
+border-radius: 4px;
+
+
+/* Select option */
+
+position: absolute;
+width: 91px;
+height: 29px;
+left: 16px;
+top: calc(50% - 29px/2 + 0.5px);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Light Grey */
+color: #BBC8D4;
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 15.52px;
+top: calc(50% - 24px/2 + 1px);
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+left: 26.72%;
+right: 26.72%;
+top: 36.28%;
+bottom: 36.28%;
+
+/* Light Grey */
+background: #BBC8D4;
+
+
+/* 2nd Box */
+
+position: absolute;
+width: 178.52px;
+height: 83px;
+left: 489.82px;
+top: 843px;
+
+
+
+/* Pick up date */
+
+position: absolute;
+width: 130px;
+height: 20px;
+left: 489.82px;
+top: 843px;
+
+/* Heading 4 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Dropdown */
+
+position: absolute;
+width: 178.52px;
+height: 56px;
+left: 489.82px;
+top: 870px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Light Grey */
+border: 2px solid #BBC8D4;
+border-radius: 4px;
+
+
+/* Select option */
+
+position: absolute;
+width: 91px;
+height: 29px;
+left: 16px;
+top: calc(50% - 29px/2 + 0.5px);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Light Grey */
+color: #BBC8D4;
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 15.52px;
+top: calc(50% - 24px/2 + 1px);
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+left: 26.72%;
+right: 26.72%;
+top: 36.28%;
+bottom: 36.28%;
+
+/* Light Grey */
+background: #BBC8D4;
+
+
+/* 1st box */
+
+position: absolute;
+width: 179px;
+height: 83px;
+left: 261px;
+top: 843px;
+
+
+
+/* Pick up location */
+
+position: absolute;
+width: 176px;
+height: 20px;
+left: 261px;
+top: 843px;
+
+/* Heading 4 */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Dropdown */
+
+position: absolute;
+width: 178.52px;
+height: 56px;
+left: 261.48px;
+top: 870px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Light Grey */
+border: 2px solid #BBC8D4;
+border-radius: 4px;
+
+
+/* Select option */
+
+position: absolute;
+width: 115px;
+height: 29px;
+left: 16px;
+top: calc(50% - 29px/2 + 0.5px);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Light Grey */
+color: #BBC8D4;
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 15.52px;
+top: calc(50% - 24px/2 + 1px);
+
+
+
+/* icon/navigation/expand_more_24px */
+
+position: absolute;
+left: 26.72%;
+right: 26.72%;
+top: 36.28%;
+bottom: 36.28%;
+
+/* Light Grey */
+background: #BBC8D4;
+
+
+/* Primary Button/Blue */
+
+position: absolute;
+width: 137px;
+height: 56px;
+left: 1061.07px;
+top: 868px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Royal Blue */
+background: #1F4590;
+border-radius: 4px;
+
+
+/* Primary Button */
+
+position: absolute;
+width: 118px;
+height: 24px;
+left: calc(50% - 118px/2 - 0.5px);
+top: calc(50% - 24px/2);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Navbar */
+
+position: absolute;
+width: 1320px;
+height: 128px;
+left: 60px;
+top: 0px;
+
+
+
+/* Background */
+
+position: absolute;
+width: 1320px;
+height: 128px;
+left: 60px;
+top: 0px;
+
+
+
+/* Primary Button/Red */
+
+position: absolute;
+width: 165px;
+height: 56px;
+left: 1215px;
+top: 36px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #1F4590;
+border-radius: 4px;
+
+
+/* Primary Button */
+
+position: absolute;
+width: 91px;
+height: 24px;
+left: calc(50% - 91px/2);
+top: calc(50% - 24px/2);
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* CarVenture */
+
+position: absolute;
+width: 171px;
+height: 40px;
+left: 60px;
+top: 40px;
+
+font-family: 'Fenix';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 40px;
+
+color: #000000;
+
+
+
+/* Contact */
+
+position: absolute;
+width: 98px;
+height: 36px;
+left: 1065px;
+top: 44px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Home */
+
+position: absolute;
+width: 72px;
+height: 36px;
+left: 629px;
+top: 44px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Offers */
+
+position: absolute;
+width: 72px;
+height: 36px;
+left: 818px;
+top: 44px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Locations */
+
+position: absolute;
+width: 115px;
+height: 36px;
+left: 920px;
+top: 44px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Cars */
+
+position: absolute;
+width: 57px;
+height: 36px;
+left: 731px;
+top: 42px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+
+Car-vent.txt
+Displaying Car-vent.txt.
